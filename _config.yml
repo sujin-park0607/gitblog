@@ -9,14 +9,14 @@ url: "https://sujin-park0607.github.io" # the base hostname & protocol for your 
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Kyeongrok # add your name
-author-img: 1598431314481_1.jpg # add your photo
-about-author: 저는 개발자 겸 강사를 하고 있습니다. 매운맛으로 강의 합니다. # add description
+author: Sujin # add your name
+author-img: sujinImg.jpg # add your photo
+about-author: 적당히보다는 최선을 추구하는 개발자 박수진 입니다. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: kyeongrok # add your Github handle
-social-linkedin: kyeongrok-kim # add your Linkedin handle
-social-email: oceanfog1@gmail.com # add your Email address
+social-github: sujin-park0607 # add your Github handle
+social-linkedin: sujin # add your Linkedin handle
+social-email: goweg0607@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
@@ -25,7 +25,7 @@ discus-identifier: mr-brown # add your discus identifier
 analytics: # Google Analytics
 
 # Build Settings
-markdown: kramdown
+markdown: Sujin
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
