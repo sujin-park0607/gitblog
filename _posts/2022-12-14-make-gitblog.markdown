@@ -3,7 +3,7 @@ layout: post
 title: make-gitblog
 date: 2022-12-14 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: githublogo.jpg # Add image post (optional)
+img: githublogo.png # Add image post (optional)
 tags: [gitblog, 개발자블로그] # add tag
 ---
 
