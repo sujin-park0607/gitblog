@@ -1,6 +1,6 @@
 ---
 layout: post
-title: gitblog 개설!
+title: make-gitblog
 date: 2022-12-14 13:53:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: githublogo.jpg # Add image post (optional)
